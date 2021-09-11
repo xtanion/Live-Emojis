@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+<!--    Transparent Colors -->
+<!--    Naming: Transparency_ColorName -->
+    <color name="transparent">#00000000</color>
+    <color name="twenty_white">#33FFFFFF</color>
+    <color name="twenty_black">#33000000</color>
+    <color name="fifty_white">#80FFFFFF</color>
+    <color name="fifty_black">#80000000</color>
+
+<!-- bright colors-->
+    <color name="bright_mint">#80cbc4</color>
+    <color name="bright_green">#00D170</color>
+    <color name="green">#61DEA4</color>
+    <color name="bright_yellow">#FFE761</color>
+    <color name="bright_grey">#EBEFF5</color>
+    <color name="bright_purple">#B678FF</color>
+    <color name="bright_red">#F45E6D</color>
+
+    <color name="peach">#ffab91</color>
+    <color name="red">#E03737</color>
+
+    <color name="deep_blue">#007CFF</color>
+    <color name="deeper_blue">#006CFF</color>
+
+<!--    Font Colors -->
+    <color name="font_white">#eceff1</color>
+    <color name="muted_white">#E5E9F0</color>
+    <color name="font_black">#000a12</color>
+    <color name="muted_black">#212121</color>
+
 </resources>
