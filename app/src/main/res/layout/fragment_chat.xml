@@ -11,12 +11,17 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         app:layout_constraintTop_toTopOf="parent">
-        <ImageView
-            android:layout_width="35dp"
-            android:layout_height="35dp"
-            android:src="@drawable/ic_launcher_background"
-            android:layout_gravity="start" />
 
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="30dp">
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="start"
+                android:src="@drawable/ic_launcher_background" />
+        </androidx.cardview.widget.CardView>
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
