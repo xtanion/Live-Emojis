@@ -3,13 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/button_click_background.xml" value="0.3362869198312236" />
         <entry key="app/src/main/res/drawable/button_clicked_bg.xml" value="0.3362869198312236" />
         <entry key="app/src/main/res/drawable/button_not_clicked_bg.xml" value="0.3362869198312236" />
         <entry key="app/src/main/res/drawable/ic_call.xml" value="0.3362869198312236" />
         <entry key="app/src/main/res/drawable/ic_camcorder.xml" value="0.3362869198312236" />
+        <entry key="app/src/main/res/drawable/ic_camera.xml" value="0.32489451476793246" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.19572649572649573" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_round_insert_emoticon_24.xml" value="0.32489451476793246" />
         <entry key="app/src/main/res/drawable/ic_search.xml" value="0.3362869198312236" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/emoji_card.xml" value="0.67" />
         <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_preview.xml" value="0.2712962962962963" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17932489451476794" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-xxxhdpi/ic_launcher.xml" value="0.1952991452991453" />
+        <entry key="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.xml" value="0.19572649572649573" />
       </map>
     </option>
   </component>

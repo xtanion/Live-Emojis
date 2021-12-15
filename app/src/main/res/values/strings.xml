@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Live Emojis</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="smiley_face">😊</string>
+    <string name="angry_face">😠</string>
+    <string name="happy_face">😆</string>
+    <string name="sad_face">😢</string>
+    <string name="wow_face">😲</string>
+    <string name="shocked_face">😳</string>
 </resources>
