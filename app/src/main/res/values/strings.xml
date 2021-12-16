@@ -6,4 +6,5 @@
     <string name="sad_face">😢</string>
     <string name="wow_face">😲</string>
     <string name="shocked_face">😳</string>
+    <string name="accuracy_100">Accuracy: 100%</string>
 </resources>

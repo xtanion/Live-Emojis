@@ -11,5 +11,5 @@
         android:text="@string/smiley_face"
         android:gravity="center"
         android:textAlignment="center"
-        android:textSize="25sp"/>
+        android:textSize="25sp" />
 </androidx.cardview.widget.CardView>
